@@ -15,6 +15,7 @@
 
 
 ```
+
 By [wasp1337](https://github.com/wasp1337) & [kirkokirk](https://github.com/kirkokirk)
 
-`         [-> Visit WIKI:](https://github.com/wasp1337/WaspWiki/wiki) `
+[`----> Visit WIKI ---->`](https://github.com/wasp1337/WaspWiki/wiki)
