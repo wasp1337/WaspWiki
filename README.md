@@ -17,4 +17,3 @@
 ```
 By wasp1337 & kirkokirk
 
-GOTO [WaspWiki](wiki) 
