@@ -15,5 +15,5 @@
 
 
 ```
-By wasp1337 & kirkokirk
+By wasp1337 & [kirkokirk](https://github.com/kirkokirk)
 
